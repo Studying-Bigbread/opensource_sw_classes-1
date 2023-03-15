@@ -1,2 +1,2 @@
 # opensource_sw_classes
-opensource_sw_classes 202000449 김대현 (T01222102-02)
+opensource_sw_classes (T01222102-02) 202000449 김대현
