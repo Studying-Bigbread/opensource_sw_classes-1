@@ -2,3 +2,4 @@
 # 202000449 컴퓨터전자시스템공학부 김대현
 print("Hello! Yuri!")
 print("Bye! Yuri!")
+print("My Hobby is Playing Baseball!")
