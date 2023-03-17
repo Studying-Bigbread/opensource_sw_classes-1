@@ -8,3 +8,5 @@ print("Bye! Yuri!")
 print("My Hobby is Playing Baseball!")
 print("I want go to home..")
 print("I'm so sleepy")
+
+print("I am HUFS Student.")
